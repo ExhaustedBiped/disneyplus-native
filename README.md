@@ -1,5 +1,5 @@
 # disneyplus native
- A proof of concept attempt at running the Disney+ site in its own window.
+ A PyQt WebEngine window running the Disney+ site in its own window.
 
 This app was written in python and uses PyQt WebEngine to render the site. (Thus, you will need PyQt, which can be installed with `pip install pyqt`)
 
